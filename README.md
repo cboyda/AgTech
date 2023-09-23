@@ -1,7 +1,7 @@
 # Palette Skills 
 ## Agricultural Data Analysis Focus
 
-Completed 130+hour program from [Palette Skills](https://paletteskills.org/agtech)
+130+hour program from [Palette Skills](https://paletteskills.org/agtech)
 
 ## Projects:
 1. ![Python Functions](https://github.com/cboyda/Palette_Cohort_4/blob/main/Assignments/Assignment_1%262.ipynb) including advanced Python features, function annotations, docstrings, pythonic idioms, custom exceptions and error handling
