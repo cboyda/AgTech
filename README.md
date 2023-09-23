@@ -5,7 +5,7 @@ Completed 130+hour program from [Palette Skills](https://paletteskills.org/agtec
 
 ## Projects:
 1. ![Python Functions](https://github.com/cboyda/Palette_Cohort_4/blob/main/Assignments/Assignment_1%262.ipynb) including advanced Python features, function annotations, docstrings, pythonic idioms, custom exceptions and error handling
-
+2. ![NumPy and Panda Functions](https://github.com/cboyda/Palette_Cohort_4/blob/main/Assignments/Assinment_3%264.ipynb) including NumPy, Pandas, ETL and EDA demonstrations
 
 Program covers a wide range of topics related to controlled environment agriculture (CEA), including sensors, robotics, machine learning, and AI. We also provide training in unmanned aerial vehicles (UAVs) and drone technologies that help farmers and businesses monitor crops and make informed decisions based on real-time data analysis.
 
