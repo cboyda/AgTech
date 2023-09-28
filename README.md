@@ -52,7 +52,7 @@
 
 - **Controlled Environment Agriculture (CEA)**: Sensors, Robotics
 - **Unmanned Aerial Vehicles (UAVs)**: Drone technologies
-- **Livestock IoT**: for real-time precision livestock monitoring
+- **Livestock IoT IoB**: for real-time precision livestock monitoring
 
 ---
 
