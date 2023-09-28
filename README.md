@@ -51,7 +51,8 @@
 ## 🚀 Additional Training
 
 - **Controlled Environment Agriculture (CEA)**: Sensors, Robotics
-- **Unmanned Aerial Vehicles (UAVs)**: Drone technologies for real-time crop monitoring
+- **Unmanned Aerial Vehicles (UAVs)**: Drone technologies
+- **Livestock IoT**: for real-time precision livestock monitoring
 
 ---
 
