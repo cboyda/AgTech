@@ -17,7 +17,7 @@
   - **Function Annotations**: Leveraged Python's type hinting to improve code readability and maintainability.
   - **Custom Exceptions**: Implemented custom exceptions to handle specific error cases gracefully.
   - **Pythonic Idioms**: Utilized Pythonic idioms for efficient and readable code.
-
+![Function Documentation](https://raw.githubusercontent.com/cboyda/AgTech/main/Trainings/assignment_function_documentation.png)
 
 ### Assignment 2: Data Analysis using NumPy and Pandas
 - [NumPy and Panda Functions Notebook](https://github.com/cboyda/Palette_Cohort_4/blob/main/Assignments/Assinment_3%264.ipynb)
