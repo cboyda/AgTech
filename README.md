@@ -12,7 +12,7 @@
 
 ### Assignment 1: Advanced Python Features
 - [Python Functions Notebook](https://github.com/cboyda/Palette_Cohort_4/blob/main/Assignments/Assignment_1%262.ipynb)
-- Skills: Function annotations, Docstrings, Pythonic idioms, Custom exceptions, Error handling
+- Skills: Function Annotations, DocStrings, Pythonic Idioms, Custom Exceptions and Error Handling
 
 ### Assignment 2: Data Analysis using NumPy and Pandas
 - [NumPy and Panda Functions Notebook](https://github.com/cboyda/Palette_Cohort_4/blob/main/Assignments/Assinment_3%264.ipynb)
