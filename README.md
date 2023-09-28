@@ -1,10 +1,21 @@
-# Clinton Boyda - Agricultural Data Analyst 🌾
-> Specializing in Data Analysis and Machine Learning for Agriculture Technology
+# Clinton Boyda - Automation & Digital Agriculture Specialist
+> #AgTech Data Analytics, Machine Learning, and Controlled Environment Agriculture (CEA)
 
-👋 Thanks for visiting my data analysis with a focus on Agricultural Data. During my [Palette Skills 130+ hour program](https://paletteskills.org/agtech) covered a variety of subjects in Controlled Environment Agriculture (CEA), AI, and machine learning.
+As a student of the [Palette Skills Automation & Digital Agriculture Specialist Program](https://paletteskills.org/agtech), an intensive 130+ hour program designed to equip professionals with the skills needed in automation and digital agriculture. This program has enabled me to specialize in areas such as precision agriculture, agriculture automation, and agri-food technology.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/clintonboyda/)](https://www.linkedin.com/in/clintonboyda/)
 ![Available for Hire](https://img.shields.io/badge/-Available%20for%20Hire-green?style=flat-square)
+
+## Services Available:
+- **Data Collection**: Acquire data from multiple agricultural sources for comprehensive analysis.
+- **Data Analysis**: Utilize statistical and machine learning models to identify patterns and trends in agricultural data.
+- **Interdisciplinary Collaboration**: Work closely with cross-functional teams to gather the necessary data and insights.
+- **Recommendations**: Provide actionable recommendations based on data-driven insights to organizational leaders.
+- **Data Modeling**: Employ best practices in data modeling and analytics.
+- **Reporting**: Develop and present clear and concise data analysis reports.
+- **Automation and Integration**: Implement processes for automated data mining and integration.
+- **Compliance**: Ensure adherence to consumer privacy laws and regulations in data collection and processing.
+
 
 ---
 
