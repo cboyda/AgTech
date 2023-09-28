@@ -1,7 +1,7 @@
 # Clinton Boyda - Agricultural Data Analyst 🌾
 > Specializing in Data Analysis and Machine Learning for Agriculture Technology
 
-👋 Hello there! I'm Clinton, a data analyst with a focus on Agricultural Data Analysis. I recently graduated from the [Palette Skills 130+ hour program](https://paletteskills.org/agtech) covering a variety of subjects in Controlled Environment Agriculture (CEA), AI, and machine learning.
+👋 Thanks for visiting my data analysis with a focus on Agricultural Data. During my [Palette Skills 130+ hour program](https://paletteskills.org/agtech) covered a variety of subjects in Controlled Environment Agriculture (CEA), AI, and machine learning.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/clintonboyda/)](https://www.linkedin.com/in/clintonboyda/)
 ![Available for Hire](https://img.shields.io/badge/-Available%20for%20Hire-green?style=flat-square)
@@ -13,10 +13,19 @@
 ### Assignment 1: Advanced Python Features
 - [Python Functions Notebook](https://github.com/cboyda/Palette_Cohort_4/blob/main/Assignments/Assignment_1%262.ipynb)
 - Skills: Function Annotations, DocStrings, Pythonic Idioms, Custom Exceptions and Error Handling
+- **Function Annotations**: Leveraged Python's type hinting to improve code readability and maintainability.
+- **Custom Exceptions**: Implemented custom exceptions to handle specific error cases gracefully.
+- **Pythonic Idioms**: Utilized Pythonic idioms for efficient and readable code.
+
 
 ### Assignment 2: Data Analysis using NumPy and Pandas
 - [NumPy and Panda Functions Notebook](https://github.com/cboyda/Palette_Cohort_4/blob/main/Assignments/Assinment_3%264.ipynb)
 - Skills: ETL, EDA
+- **Data Cleaning**: Used Pandas for data munging and preparation.
+- **Statistical Analysis**: Performed t-tests, chi-squared tests, and other statistical analyses to interpret the data.
+- **Data Visualization**: Leveraged Matplotlib and Seaborn for complex visualizations like heatmaps and violin plots.
+- **Array Manipulation**: Utilized NumPy for efficient array operations, such as slicing, masking, and reshaping.
+
 - ![EDA](https://raw.githubusercontent.com/cboyda/Palette_Cohort_4/main/Trainings/assignment_EDA.png)
 
 
