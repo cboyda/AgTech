@@ -1,19 +1,52 @@
-# Palette Skills 
-## Agricultural Data Analysis Focus
+# Clinton Boyda - Agricultural Data Analyst 🌾
+> Specializing in Data Analysis and Machine Learning for Agriculture Technology
 
-130+hour program from [Palette Skills](https://paletteskills.org/agtech)
+👋 Hello there! I'm Clinton, a data analyst with a focus on Agricultural Data Analysis. I recently graduated from the [Palette Skills 130+ hour program](https://paletteskills.org/agtech) covering a variety of subjects in Controlled Environment Agriculture (CEA), AI, and machine learning.
 
-## Projects:
-1. Assignment 1: ![Python Functions](https://github.com/cboyda/Palette_Cohort_4/blob/main/Assignments/Assignment_1%262.ipynb) including advanced Python features, function annotations, docstrings, pythonic idioms, custom exceptions and error handling
-2. Assignment 2: ![NumPy and Panda Functions](https://github.com/cboyda/Palette_Cohort_4/blob/main/Assignments/Assinment_3%264.ipynb) including ETL and EDA demonstrations
-![EDA](https://raw.githubusercontent.com/cboyda/Palette_Cohort_4/main/Trainings/assignment_EDA.png)
-  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/clintonboyda/)](https://www.linkedin.com/in/clintonboyda/)
+![Available for Hire](https://img.shields.io/badge/-Available%20for%20Hire-green?style=flat-square)
 
-Program covers a wide range of topics related to controlled environment agriculture (CEA), including sensors, robotics, machine learning, and AI. We also provide training in unmanned aerial vehicles (UAVs) and drone technologies that help farmers and businesses monitor crops and make informed decisions based on real-time data analysis.
+---
 
-## Skills: 
-**Data Visualization · Data Analysis · Dashboard · Statistical Modelling <br>
-Coding |  Probabilities | Pandas | Data Visualization: Matplotlib and Seaborn | GeoPandas | Machine Learning: Supervised/Unsupervised, Scikit-learn, Clustering**
+## 📊 Projects
 
-Yes, I am available [for hire](https://www.linkedin.com/in/clintonboyda/)
+### Assignment 1: Advanced Python Features
+- [Python Functions Notebook](https://github.com/cboyda/Palette_Cohort_4/blob/main/Assignments/Assignment_1%262.ipynb)
+- Skills: Function annotations, Docstrings, Pythonic idioms, Custom exceptions, Error handling
+
+### Assignment 2: Data Analysis using NumPy and Pandas
+- [NumPy and Panda Functions Notebook](https://github.com/cboyda/Palette_Cohort_4/blob/main/Assignments/Assinment_3%264.ipynb)
+- Skills: ETL, EDA
+- ![EDA](https://raw.githubusercontent.com/cboyda/Palette_Cohort_4/main/Trainings/assignment_EDA.png)
+
+> _More projects coming soon!_
+
+---
+
+## 🛠️ Skills
+
+- **Data Analysis**: Data Visualization, Dashboard, Statistical Modelling
+- **Programming**: Python, SQL
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, GeoPandas
+- **Machine Learning**: Supervised/Unsupervised, Scikit-learn, Clustering
+
+---
+
+## 🚀 Additional Training
+
+- **Controlled Environment Agriculture (CEA)**: Sensors, Robotics
+- **Unmanned Aerial Vehicles (UAVs)**: Drone technologies for real-time crop monitoring
+
+---
+
+## 📬 Get in Touch
+- LinkedIn: [Clinton Boyda](https://www.linkedin.com/in/clintonboyda/)
+- Email: `Insert your email here`
+- Portfolio: `Insert portfolio link here`
+
+---
+
+🌱 **I'm currently open to new opportunities and available for hire.**
+
+
 
