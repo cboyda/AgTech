@@ -1,7 +1,7 @@
 # Clinton Boyda - Automation & Digital Agriculture Specialist
 > #AgTech Data Analytics, Machine Learning, and Controlled Environment Agriculture (CEA)
 
-As a student of the [Palette Skills Automation & Digital Agriculture Specialist Program](https://paletteskills.org/agtech), an intensive 130+ hour program designed to equip professionals with the skills needed in automation and digital agriculture. This program has enabled me to specialize in areas such as precision agriculture, agriculture automation, and agri-food technology.
+As a student of the [Palette Skills Automation & Digital Agriculture Specialist Program](https://paletteskills.org/agtech), an intensive 130+ hour program, I am equiped with the skills to enhance automation and digital agriculture. This program has enabled me to specialize in areas such as precision agriculture, agriculture automation, and agri-food technology.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/clintonboyda/)](https://www.linkedin.com/in/clintonboyda/)
 ![Available for Hire](https://img.shields.io/badge/-Available%20for%20Hire-green?style=flat-square)
@@ -11,7 +11,7 @@ As a student of the [Palette Skills Automation & Digital Agriculture Specialist 
 - **Data Analysis**: Utilize statistical and machine learning models to identify patterns and trends in agricultural data.
 - **Interdisciplinary Collaboration**: Work closely with cross-functional teams to gather the necessary data and insights.
 - **Recommendations**: Provide actionable recommendations based on data-driven insights to organizational leaders.
-- **Data Modeling**: Employ best practices in data modeling and analytics.
+- **Data Modeling**: Employ best practices in data modelling and analytics.
 - **Reporting**: Develop and present clear and concise data analysis reports.
 - **Automation and Integration**: Implement processes for automated data mining and integration.
 - **Compliance**: Ensure adherence to consumer privacy laws and regulations in data collection and processing.
