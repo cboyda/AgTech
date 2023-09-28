@@ -19,6 +19,12 @@
 - Skills: ETL, EDA
 - ![EDA](https://raw.githubusercontent.com/cboyda/Palette_Cohort_4/main/Trainings/assignment_EDA.png)
 
+
+### Agri-Forward Pitch Deck 🐔
+- ‘Autonomously Improving Livestock Environments’
+- Currently producers are generalizing their data barely able to collect averages of their flocks.  What if we could collect individual animal details? Customizing male chicken diets has showed a 5% increase in fertility.  Imagine those results on your whole flock?
+- ***Team Aeris*** is focused on improving livestock environments by collecting individual animal statistics, environmental sensor data and optimizing their environment for the healthiest outcome.  Healthier Livestock means a Healthier Society!
+
 > _More projects coming soon!_
 
 ---
@@ -39,14 +45,7 @@
 
 ---
 
-## 📬 Get in Touch
-- LinkedIn: [Clinton Boyda](https://www.linkedin.com/in/clintonboyda/)
-- Email: `Insert your email here`
-- Portfolio: `Insert portfolio link here`
-
----
-
-🌱 **I'm currently open to new opportunities and available for hire.**
+🌱 **Yes, I'm open to new opportunities and available for hire.**
 
 
 
