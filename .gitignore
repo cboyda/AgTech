@@ -1,2 +1,5 @@
 
 .DS_Store
+Data/merged2_MB_SK.csv
+Data/merged2_MB_SK.parquet
+*.csv
