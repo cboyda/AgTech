@@ -21,7 +21,7 @@ As a student of the [Palette Skills Automation & Digital Agriculture Specialist 
 
 ## 📊 Projects
 
-### Assignment 1: Advanced Python Features
+### Assignment 1: Advanced Python Features (Grade = 100%)
 - [Python Functions Notebook](https://github.com/cboyda/Palette_Cohort_4/blob/main/Assignments/Assignment_1%262.ipynb)
 
 * ⚙️ Technical Skill Highlights
@@ -30,7 +30,7 @@ As a student of the [Palette Skills Automation & Digital Agriculture Specialist 
   - **Pythonic Idioms**: Utilized Pythonic idioms for efficient and readable code.
 ![Function Documentation](https://raw.githubusercontent.com/cboyda/AgTech/main/Trainings/assignment_function_documentation.png)
 
-### Assignment 2: Data Analysis using NumPy and Pandas
+### Assignment 2: Data Analysis using NumPy and Pandas (Grade = 100%)
 - [NumPy and Panda Functions Notebook](https://github.com/cboyda/Palette_Cohort_4/blob/main/Assignments/Assinment_3%264.ipynb)
 
 * ⚙️ Technical Skill Highlights
