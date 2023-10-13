@@ -40,6 +40,8 @@ As a student of the [Palette Skills Automation & Digital Agriculture Specialist 
   - **Array Manipulation**: Utilized NumPy for efficient array operations, such as slicing, masking, and reshaping.
 ![EDA](https://raw.githubusercontent.com/cboyda/Palette_Cohort_4/main/Trainings/assignment_EDA.png)
 
+### Final Assignment 3: Crop Data Analysis Presentation
+- [View Canola Crop for 2021 in Saskatchewan and Manitoba](https://raw.githack.com/cboyda/AgTech/main/Canola_2021_simplified.html) 
 
 ### Agri-Forward Pitch Deck 🐔
 - ‘Autonomously Improving Livestock Environments’
