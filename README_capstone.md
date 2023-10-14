@@ -7,7 +7,7 @@ Final Project | Cohort 4 | Stream 3
 ## Project Goals
 This sample challenge is to go shopping for the best canola-valued fields.  Value will be calculated by taking the crop yield x stock crop price.
 
-## Process
+## Data Process
 ### Step 1: Crop Data
 
 * Incorporate RM yields for numerous crops from both Saskatchewan and Manitoba
@@ -23,7 +23,7 @@ This sample challenge is to go shopping for the best canola-valued fields.  Valu
 * Grab Canola stock prices
 * Data was limited to 2010-2022
 
-### Step 4: Build Statistical Model
+### Step 4: K-Means Clustering
 <details>
   <summary>STATISTICAL MODEL DETAILS... [click to view]</summary>
   
