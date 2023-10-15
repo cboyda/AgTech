@@ -18,16 +18,19 @@ This sample challenge is to go shopping for the best canola-valued fields.  Valu
 
 * Incorporate RM yields for numerous crops from both Saskatchewan and Manitoba
 * Crop yields included for crop_columns=['Canola', 'Barley', 'Canary Seed', 'Durum Wheat', 'Lentils', 'Oats', 'Spring Wheat', 'Peas']
+* Source: [Saskatchewan Data](https://dashboard.saskatchewan.ca/agriculture/rm-yields/rm-yields-data) and [Manitoba Data](https://geoportal.gov.mb.ca/search?collection=Dataset&q=crop%20yields)
 
 ### Step 2: Gather GIS Data
 
 * Incorporate Geospatial data for each of RM's from provinces
 * RM data was missing for the SK RM's 278, 408, and 529 and MB RM's UNORG TERRITORY, luckily these don't appear in our top 10 list so this missing data can be ignored for this analysis.
+* Source: Shapefiles provided
 
 ### Step 3: Gather Canola Pricing
 
 * Grab Canola stock prices
 * Data was limited to 2010-2022
+* Source: [investing.com](https://www.investing.com/commodities/canola-futures-historical-data)
 
 ### Step 4: K-Means Clustering
 <details>
@@ -53,3 +56,4 @@ This sample challenge is to go shopping for the best canola-valued fields.  Valu
 ## Challenges
 
 ## Future Goals
+* Better accuracy: use province specific pricing like [Manitoba Canola specific prices](https://geoportal.gov.mb.ca/datasets/manitoba::manitoba-crop-prices-historical/explore) instead of generalizing with stock prices for all locations
