@@ -3,7 +3,7 @@ Final Project | Cohort 4 | Stream 3
 
 ## Introduction
 Reviewing crop prices, I was intrigued to see the Canola drastically increasing.
-[Canola Pricing(https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/CanolaPrices.png)
+![Canola Pricing(https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/CanolaPrices.png)
 
 ## Project Goals
 This sample challenge is to go shopping for the best canola-valued fields.  Value will be calculated by taking the crop yield x stock crop price.
