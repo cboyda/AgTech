@@ -4,7 +4,7 @@
 As a student of the [Palette Skills Automation & Digital Agriculture Specialist Program](https://paletteskills.org/agtech), an intensive 130+ hour program, I am equiped with the skills to enhance automation and digital agriculture. This program has enabled me to specialize in areas such as precision agriculture, agriculture automation, and agri-food technology.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/clintonboyda/)](https://www.linkedin.com/in/clintonboyda/)
-![Available for Hire](https://img.shields.io/badge/-Available%20for%20Hire-green?style=flat-square)
+[![Available for Hire](https://img.shields.io/badge/-Available%20for%20Hire-green?style=flat-square)](https://www.linkedin.com/in/clintonboyda/)
 
 ## Services Available:
 - **Data Collection**: Acquire data from multiple agricultural sources for comprehensive analysis.
