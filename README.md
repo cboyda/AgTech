@@ -23,7 +23,7 @@ As a student of the [Palette Skills Automation & Digital Agriculture Specialist 
 
 ### Final Assignment: Crop Data Analysis Presentation
 - [Capstone Crop Analysis](https://github.com/cboyda/AgTech/blob/main/README_capstone.md)
-- [Interactive Canola Crop for 2021 in Saskatchewan and Manitoba](https://raw.githack.com/cboyda/AgTech/main/Canola_2021_simplified.html) 
+- [Sample Interactive HTML Canola Crop for Saskatchewan and Manitoba](https://raw.githack.com/cboyda/AgTech/main/Visuals/Canola_2021.html) 
 
 ### Assignment 1: Advanced Python Features (Grade = 100%)
 - [Python Functions Notebook](https://github.com/cboyda/Palette_Cohort_4/blob/main/Assignments/Assignment_1%262.ipynb)
