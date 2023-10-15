@@ -1,7 +1,7 @@
 # Project: AgTech Capstone
 Final Project | Cohort 4 | Stream 3
 
-## Introduction
+## Problem Statement
 Reviewing crop prices, I was intrigued to see the Canola drastically increasing:
 ![Canola Pricing](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/CanolaPrices.png)
 
@@ -18,6 +18,7 @@ This sample challenge is to go shopping for the best canola-valued fields.  Valu
 
 * Incorporate RM yields for numerous crops from both Saskatchewan and Manitoba
 * Crop yields included for crop_columns=['Canola', 'Barley', 'Canary Seed', 'Durum Wheat', 'Lentils', 'Oats', 'Spring Wheat', 'Peas']
+* Due to missing values Canola crop yield data was limited to 2002-2022
 * Source: [Saskatchewan Data](https://dashboard.saskatchewan.ca/agriculture/rm-yields/rm-yields-data) and [Manitoba Data](https://geoportal.gov.mb.ca/search?collection=Dataset&q=crop%20yields)
 
 ### Step 2: Gather GIS Data
@@ -32,20 +33,20 @@ This sample challenge is to go shopping for the best canola-valued fields.  Valu
 * Data was limited to 2010-2022
 * Source: [investing.com](https://www.investing.com/commodities/canola-futures-historical-data)
 
-### Step 4: K-Means Clustering
+### Step 4: Partitional Clustering Analysis
 <details>
   <summary>STATISTICAL MODEL DETAILS... [click to view]</summary>
   
-#### Regression Statistical Models
+#### K-Means
+K-means is a partitioning-based clustering algorithm. It assigns data points to clusters by minimizing the sum of squared distances between data points and the centroid of their assigned cluster. It assumes that clusters are spherical and equally sized.
 
-#### Classification Statistical Models
+#### DBSCAN
+DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is a density-based clustering algorithm. It defines clusters as dense regions of data points separated by areas of lower density. It doesn't assume spherical clusters and can discover clusters of arbitrary shapes.
 
 </details>
 
 # Results
 ### a) Model Comparison
-
-### b) Quality of APIs
 
 ### c) Exploratory Data Analysis (EDA)
 
