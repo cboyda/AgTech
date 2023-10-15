@@ -31,7 +31,7 @@ This sample challenge is to go shopping for the best canola-valued rural municip
 
 * Grab Canola stock prices
 * Data was limited to 2010-2022
-* Source: [investing.com](https://www.investing.com/commodities/canola-futures-historical-data)
+* Source: [investing.com](https://www.investing.com/commodities/canola-futures-streaming-chart)
 
 ### Step 4: Methodology: Partitional Clustering
 Utilized unsupervised learning.
