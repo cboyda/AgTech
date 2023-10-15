@@ -9,7 +9,7 @@ I was curious, if a rural municipal district has a high yield, how would that co
 I assumed the top crop yield RMs would also have the highest valuation.
 
 ## Project Goals
-This sample challenge is to go shopping for the best canola-valued fields.  Value will be calculated by taking the crop yield x stock crop price.
+This sample challenge is to go shopping for the best canola-valued rural municipal locations.  Value will be calculated by taking the crop yield x stock crop price.
 
 ![Canola Valuation Function](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/canola_function.png)
 
