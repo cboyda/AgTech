@@ -17,8 +17,12 @@ This sample challenge is to go shopping for the best canola-valued rural municip
 ### Step 1: Crop Data
 
 * Incorporate RM yields for numerous crops from both Saskatchewan and Manitoba
-* Crop yields included for crop_columns=['Canola', 'Barley', 'Canary Seed', 'Durum Wheat', 'Lentils', 'Oats', 'Spring Wheat', 'Peas']
+* 8 Crop yields included for crop_columns=['Canola', 'Barley', 'Canary Seed', 'Durum Wheat', 'Lentils', 'Oats', 'Spring Wheat', 'Peas']
+* 397 Total Rural Municipalities (RM) for both Saskatchewan (SK) and Manitoba (MB)
+* 1938 - 2022 Complete Timeline of Data Gathered
 * Due to missing values Canola crop yield data was limited to 2002-2022
+* Manitoba Yields converted from tonnes to bushels
+* Saskatchewan converted from pounds to bushels
 * Source: [Saskatchewan Data](https://dashboard.saskatchewan.ca/agriculture/rm-yields/rm-yields-data) and [Manitoba Data](https://geoportal.gov.mb.ca/search?collection=Dataset&q=crop%20yields)
 
 ### Step 2: Gather GIS Data
@@ -30,6 +34,7 @@ This sample challenge is to go shopping for the best canola-valued rural municip
 ### Step 3: Gather Canola Pricing
 
 * Grab Canola stock prices
+* Stock prices included $ per Tonne and **$ per Bushel** (selected)
 * Data was limited to 2010-2022
 * Source: [investing.com](https://www.investing.com/commodities/canola-futures-streaming-chart)
 
