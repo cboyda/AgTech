@@ -1,5 +1,5 @@
 # Project: AgTech Capstone
-Final Project | Cohort 4 | Stream 3
+Final Project | Cohort 4 | Stream 3 by Clinton Boyda
 
 ## Problem Statement
 Reviewing crop prices, I was intrigued to see the Canola drastically increasing:
@@ -33,9 +33,23 @@ This sample challenge is to go shopping for the best canola-valued fields.  Valu
 * Data was limited to 2010-2022
 * Source: [investing.com](https://www.investing.com/commodities/canola-futures-historical-data)
 
-### Step 4: Partitional Clustering Analysis
+### Step 4: Methodology: Partitional Clustering
+Utilized unsupervised learning.
+
+| Step                          | K-means | DBSCAN |
+|-------------------------------|---------|--------|
+| Feature Engineering            |   Yes   |   Yes  |
+| Data Splitting for Training   |   No    |   No   |
+| Model Selection               |   No    |   No   |
+| Removed Crop Outliers         |   No    |   No   |
+| Data Preprocessing            |   Yes   |   Yes  |
+| Parameter Selection           |   Yes   |   Yes  |
+| Cluster Evaluation            |   Yes   |   Yes  |
+| Scalability                   |   Yes   |   Limited  |
+| Cluster Interpretability      |   Yes   |   Moderate  |
+
 <details>
-  <summary>STATISTICAL MODEL DETAILS... [click to view]</summary>
+  <summary>ANALYSIS DETAILS... [click to view]</summary>
   
 #### K-Means
 K-means is a partitioning-based clustering algorithm. It assigns data points to clusters by minimizing the sum of squared distances between data points and the centroid of their assigned cluster. It assumes that clusters are spherical and equally sized.
@@ -48,13 +62,14 @@ DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is a densit
 # Results
 ### a) Model Comparison
 
-### c) Exploratory Data Analysis (EDA)
+### b) Exploratory Data Analysis (EDA)
 
-### d) Insights
+### c) Insights
 
 ## Data Visualizations
 
 ## Challenges
+* GIS shapefiles were missing for 4 RMs for the best visualization these should be included
 
 ## Future Goals
 * Better accuracy: use province specific pricing like [Manitoba Canola specific prices](https://geoportal.gov.mb.ca/datasets/manitoba::manitoba-crop-prices-historical/explore) instead of generalizing with stock prices for all locations
