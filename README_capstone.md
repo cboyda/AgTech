@@ -29,6 +29,7 @@ This sample challenge is to go shopping for the best canola-valued rural municip
 
 * Incorporate Geospatial data for each of RM's from provinces
 * RM data was missing for the SK RM's 278, 408, and 529 and MB RM's UNORG TERRITORY, luckily these don't appear in our top 10 list so this missing data can be ignored for this analysis.
+  * with these 4 missing RMs we end up losing 208+ (of 27k) rows of data trying to display them as geospatial data 
 * 478 Total Rural Municipalities (RM) have shape files available for SK and MB (3 duplicates)
 * Source: Shapefiles provided
 
