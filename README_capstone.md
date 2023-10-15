@@ -51,7 +51,7 @@ This sample challenge is to go shopping for the best canola-valued fields.  Valu
 
 ### d) Insights
 
-### Step 5: Build Data Visualizations
+## Data Visualizations
 
 ## Challenges
 
