@@ -2,11 +2,14 @@
 Final Project | Cohort 4 | Stream 3
 
 ## Introduction
-Reviewing crop prices, I was intrigued to see the Canola drastically increasing.
-![Canola Pricing(https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/CanolaPrices.png)
+Reviewing crop prices, I was intrigued to see the Canola drastically increasing:
+![Canola Pricing](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/CanolaPrices.png)
+I was curious, if a rural municipal district has a high yield, how would that compare to its value? 
+I assumed the top crop yield RMs would also have the highest valuation.
 
 ## Project Goals
 This sample challenge is to go shopping for the best canola-valued fields.  Value will be calculated by taking the crop yield x stock crop price.
+![Canola Valuation Function](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/canola_function.png)
 
 ## Data Process
 ### Step 1: Crop Data
