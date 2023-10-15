@@ -34,7 +34,7 @@ This sample challenge is to go shopping for the best canola-valued rural municip
 ### Step 3: Gather Canola Pricing
 
 * Grab Canola stock prices
-* Stock prices included $ per Tonne and **$ per Bushel** (selected)
+* 3285 daily Stock prices found for Canola as $ per Tonne and **$ per Bushel** (selected) (averaged for each year)
 * Data was limited to 2010-2022
 * Source: [investing.com](https://www.investing.com/commodities/canola-futures-streaming-chart)
 
