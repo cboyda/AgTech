@@ -4,7 +4,7 @@
 As a student of the [Palette Skills Automation & Digital Agriculture Specialist Program](https://paletteskills.org/agtech), an intensive 130+ hour program, I am equiped with the skills to enhance automation and digital agriculture. This program has enabled me to specialize in areas such as precision agriculture, agriculture automation, and agri-food technology.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/clintonboyda/)](https://www.linkedin.com/in/clintonboyda/)
-![Available for Hire](https://img.shields.io/badge/-Available%20for%20Hire-green?style=flat-square)
+[![Available for Hire](https://img.shields.io/badge/-Available%20for%20Hire-green?style=flat-square)](https://www.linkedin.com/in/clintonboyda/)
 
 ## Services Available:
 - **Data Collection**: Acquire data from multiple agricultural sources for comprehensive analysis.
@@ -20,6 +20,10 @@ As a student of the [Palette Skills Automation & Digital Agriculture Specialist 
 ---
 
 ## 📊 Projects
+
+### Final Assignment: Crop Data Analysis Presentation
+- [Capstone Crop Analysis](https://github.com/cboyda/AgTech/blob/main/README_capstone.md)
+  - [Sample Interactive HTML Canola Crop for Saskatchewan and Manitoba](https://raw.githack.com/cboyda/AgTech/main/Visuals/Canola_2021.html)
 
 ### Assignment 1: Advanced Python Features (Grade = 100%)
 - [Python Functions Notebook](https://github.com/cboyda/Palette_Cohort_4/blob/main/Assignments/Assignment_1%262.ipynb)
@@ -39,9 +43,6 @@ As a student of the [Palette Skills Automation & Digital Agriculture Specialist 
   - **Data Visualization**: Leveraged Matplotlib and Seaborn for complex visualizations.
   - **Array Manipulation**: Utilized NumPy for efficient array operations, such as slicing, masking, and reshaping.
 ![EDA](https://raw.githubusercontent.com/cboyda/Palette_Cohort_4/main/Trainings/assignment_EDA.png)
-
-### Final Assignment 3: Crop Data Analysis Presentation
-- [View Canola Crop for 2021 in Saskatchewan and Manitoba](https://raw.githack.com/cboyda/AgTech/main/Canola_2021_simplified.html) 
 
 ### Agri-Forward Pitch Deck 🐔
 - ‘Autonomously Improving Livestock Environments’
