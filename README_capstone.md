@@ -24,8 +24,8 @@ Value will be calculated by taking the crop yield x stock crop price.
 * Incorporate RM yields for numerous crops from both Saskatchewan and Manitoba
 * 8 Crop yields included for crop_columns=['Canola', 'Barley', 'Canary Seed', 'Durum Wheat', 'Lentils', 'Oats', 'Spring Wheat', 'Peas']
 * 397 Total Rural Municipalities (RM) for both Saskatchewan (SK) and Manitoba (MB)
-* 1938 - 2022 Complete Timeline of Data Gathered
-* Due to missing values Canola crop yield data started off being limited to 2002-2022
+* 1938 - 2022 Timeline of Data Gathered
+* Due to missing values Canola crop yield data started off being limited to Years 2002-2022
 * Manitoba Yields converted from tonnes to bushels
 * Saskatchewan converted from pounds to bushels
 * Source: [Saskatchewan Data](https://dashboard.saskatchewan.ca/agriculture/rm-yields/rm-yields-data) and [Manitoba Data](https://geoportal.gov.mb.ca/search?collection=Dataset&q=crop%20yields)
@@ -36,17 +36,17 @@ Value will be calculated by taking the crop yield x stock crop price.
 * RM data was missing for the SK RM's 278, 408, and 529 and MB RM's UNORG TERRITORY, luckily these don't appear in our top 10 list so this missing data can be ignored for this analysis.
   * with these 4 missing RMs we end up losing 208+ (of 27k) rows of data trying to display them as geospatial data 
 * 478 Total Rural Municipalities (RM) have shape files available for SK and MB (3 duplicates)
-* Source: Shapefiles provided
+* Source: [Shapefiles provided](https://github.com/cboyda/AgTech/tree/main/Data)
 
 ### Step 3: Gather Canola Pricing
 
 * Grab Canola stock prices
 * 3285 daily Stock prices found for Canola as $ per Tonne and **$ per Bushel** (selected) (averaged for each year)
-* Now our Yield and Value Data is limited to 2010-2022
+* Now our Yield and Value Data is limited to Years 2010-2022
 * Stock Price Source: [investing.com](https://www.investing.com/commodities/canola-futures-streaming-chart)
 
 ### Step 4: Methodology: Partitional Clustering
-Utilized unsupervised learning.
+Utilized unsupervised learning and clustering analysis.
 
 | Step                          | K-means | DBSCAN |
 |-------------------------------|---------|--------|
