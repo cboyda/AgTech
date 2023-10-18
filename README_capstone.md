@@ -13,7 +13,9 @@ Farmers reported planting 22.1 million acres of canola in 2023, up 3.2% from the
 Farmers in Saskatchewan reported planting 12.4 million acres of canola, up 8.8% from 2022."
 
 ## Project Goals
-This sample challenge is to go shopping for the best canola-valued rural municipal locations.  Value will be calculated by taking the crop yield x stock crop price.
+This sample challenge is to go shopping for the best canola-valued rural municipal locations.  
+
+Value will be calculated by taking the crop yield x stock crop price.
 
 ![Canola Valuation Function](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/canola_function.png)
 
