@@ -2,7 +2,7 @@
 Final Project | Cohort 4 | Stream 3 by Clinton Boyda
 
 ## Problem Statement
-Reviewing crop prices, I was intrigued to see the Canola drastically increasing:
+Reviewing crop prices, I was intrigued to see the Canola pricing drastically increasing:
 ![Canola Pricing](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/CanolaPrices.png)
 
 I was curious, if a rural municipal district has a high yield, how would that compare to its value? 
