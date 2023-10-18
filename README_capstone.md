@@ -14,8 +14,8 @@ Farmers in Saskatchewan reported planting 12.4 million acres of canola, up 8.8% 
 
 ## Project Goals
 This sample challenge is to go shopping for the best canola-valued rural municipal locations.  
-
 Value will be calculated by taking the crop yield x stock crop price.
+
 ![Canola Valuation Function](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/canola_function.png)
 
 ## Data Process
