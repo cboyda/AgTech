@@ -68,6 +68,8 @@ DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is a densit
 
 # Results
 Highlight any strengths or weaknesses??? End with Conclusion: Summarize the key takeaways from the project, and discuss the implications and potential applications of the results. Provide recommendations for future work.
+* [Complete python notebook of analysis](https://github.com/cboyda/AgTech/blob/main/Assignments/CapstoneAssignment_CropAnalysis.ipynb)
+
 ### a) Model Comparison
 
 ### b) Exploratory Data Analysis (EDA)
