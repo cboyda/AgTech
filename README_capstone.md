@@ -20,7 +20,7 @@ This sample challenge is to go shopping for the best canola-valued rural municip
 * 8 Crop yields included for crop_columns=['Canola', 'Barley', 'Canary Seed', 'Durum Wheat', 'Lentils', 'Oats', 'Spring Wheat', 'Peas']
 * 397 Total Rural Municipalities (RM) for both Saskatchewan (SK) and Manitoba (MB)
 * 1938 - 2022 Complete Timeline of Data Gathered
-* Due to missing values Canola crop yield data was limited to 2002-2022
+* Due to missing values Canola crop yield data started off being limited to 2002-2022
 * Manitoba Yields converted from tonnes to bushels
 * Saskatchewan converted from pounds to bushels
 * Source: [Saskatchewan Data](https://dashboard.saskatchewan.ca/agriculture/rm-yields/rm-yields-data) and [Manitoba Data](https://geoportal.gov.mb.ca/search?collection=Dataset&q=crop%20yields)
@@ -37,8 +37,8 @@ This sample challenge is to go shopping for the best canola-valued rural municip
 
 * Grab Canola stock prices
 * 3285 daily Stock prices found for Canola as $ per Tonne and **$ per Bushel** (selected) (averaged for each year)
-* Data was limited to 2010-2022
-* Source: [investing.com](https://www.investing.com/commodities/canola-futures-streaming-chart)
+* Now our Yield and Value Data is limited to 2010-2022
+* Stock Price Source: [investing.com](https://www.investing.com/commodities/canola-futures-streaming-chart)
 
 ### Step 4: Methodology: Partitional Clustering
 Utilized unsupervised learning.
