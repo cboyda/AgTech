@@ -8,6 +8,10 @@ Reviewing crop prices, I was intrigued to see the Canola drastically increasing:
 I was curious, if a rural municipal district has a high yield, how would that compare to its value? 
 I assumed the top crop yield RMs would also have the highest valuation.
 
+Interesting how [current crop analysis, from June 2023,](https://www150.statcan.gc.ca/n1/daily-quotidien/230628/dq230628a-eng.htm) connects to this question: "Canola area rises
+Farmers reported planting 22.1 million acres of canola in 2023, up 3.2% from the previous year. The greater area may be the result of relatively favourable prices.
+Farmers in Saskatchewan reported planting 12.4 million acres of canola, up 8.8% from 2022."
+
 ## Project Goals
 This sample challenge is to go shopping for the best canola-valued rural municipal locations.  Value will be calculated by taking the crop yield x stock crop price.
 
