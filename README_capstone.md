@@ -2,14 +2,19 @@
 Final Project | Cohort 4 | Stream 3 by Clinton Boyda
 
 ## Problem Statement
-Reviewing crop prices, I was intrigued to see the Canola drastically increasing:
+Reviewing crop prices, I was intrigued to see the Canola pricing drastically increasing:
 ![Canola Pricing](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/CanolaPrices.png)
 
 I was curious, if a rural municipal district has a high yield, how would that compare to its value? 
 I assumed the top crop yield RMs would also have the highest valuation.
 
+Interesting how [current crop analysis, from June 2023,](https://www150.statcan.gc.ca/n1/daily-quotidien/230628/dq230628a-eng.htm) connects to this query: "Canola area rises
+Farmers reported planting 22.1 million acres of canola in 2023, up 3.2% from the previous year. The greater area may be the result of **relatively favourable prices**.
+Farmers in Saskatchewan reported planting 12.4 million acres of canola, up 8.8% from 2022."
+
 ## Project Goals
-This sample challenge is to go shopping for the best canola-valued rural municipal locations.  Value will be calculated by taking the crop yield x stock crop price.
+This sample challenge is to go shopping for the best canola-valued rural municipal locations.  
+Value will be calculated by taking the crop yield x stock crop price.
 
 ![Canola Valuation Function](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/canola_function.png)
 
@@ -19,8 +24,8 @@ This sample challenge is to go shopping for the best canola-valued rural municip
 * Incorporate RM yields for numerous crops from both Saskatchewan and Manitoba
 * 8 Crop yields included for crop_columns=['Canola', 'Barley', 'Canary Seed', 'Durum Wheat', 'Lentils', 'Oats', 'Spring Wheat', 'Peas']
 * 397 Total Rural Municipalities (RM) for both Saskatchewan (SK) and Manitoba (MB)
-* 1938 - 2022 Complete Timeline of Data Gathered
-* Due to missing values Canola crop yield data was limited to 2002-2022
+* 1938 - 2022 Timeline of Data Gathered
+* Due to missing values Canola crop yield data started off being limited to Years 2002-2022
 * Manitoba Yields converted from tonnes to bushels
 * Saskatchewan converted from pounds to bushels
 * Source: [Saskatchewan Data](https://dashboard.saskatchewan.ca/agriculture/rm-yields/rm-yields-data) and [Manitoba Data](https://geoportal.gov.mb.ca/search?collection=Dataset&q=crop%20yields)
@@ -31,17 +36,17 @@ This sample challenge is to go shopping for the best canola-valued rural municip
 * RM data was missing for the SK RM's 278, 408, and 529 and MB RM's UNORG TERRITORY, luckily these don't appear in our top 10 list so this missing data can be ignored for this analysis.
   * with these 4 missing RMs we end up losing 208+ (of 27k) rows of data trying to display them as geospatial data 
 * 478 Total Rural Municipalities (RM) have shape files available for SK and MB (3 duplicates)
-* Source: Shapefiles provided
+* Source: [Shapefiles provided](https://github.com/cboyda/AgTech/tree/main/Data)
 
 ### Step 3: Gather Canola Pricing
 
 * Grab Canola stock prices
 * 3285 daily Stock prices found for Canola as $ per Tonne and **$ per Bushel** (selected) (averaged for each year)
-* Data was limited to 2010-2022
-* Source: [investing.com](https://www.investing.com/commodities/canola-futures-streaming-chart)
+* Now our Yield and Value Data is limited to Years 2010-2022
+* Stock Price Source: [investing.com](https://www.investing.com/commodities/canola-futures-streaming-chart)
 
 ### Step 4: Methodology: Partitional Clustering
-Utilized unsupervised learning.
+Utilized unsupervised learning and clustering analysis.
 
 | Step                          | K-means | DBSCAN |
 |-------------------------------|---------|--------|
