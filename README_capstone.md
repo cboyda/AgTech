@@ -82,8 +82,8 @@ DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is a densit
 
 # Results
 Provided in full detail as a Microsoft PowerPoint presentation, choose which you wish to view:
-* [Powerpoint Slides in PDF](https://github.com/cboyda/AgTech/blob/main/Visuals/Capstone%20-%20High%20Value%20Canola.pdf)
-* [Powerpoint Slide in ppx](https://github.com/cboyda/AgTech/raw/main/Visuals/Capstone%20-%20High%20Value%20Canola.pptx)
+* [Slides as PDF](https://github.com/cboyda/AgTech/blob/main/Visuals/Capstone%20-%20High%20Value%20Canola.pdf)
+* [Microsoft Powerpoint Slide in .PPT](https://github.com/cboyda/AgTech/raw/main/Visuals/Capstone%20-%20High%20Value%20Canola.pptx)
 * [Complete Python notebook of analysis](https://github.com/cboyda/AgTech/blob/main/Assignments/CapstoneAssignment_CropAnalysis.ipynb)
   * Leveraged local workstation Anaconda with Python v3.12
 
