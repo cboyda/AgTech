@@ -83,8 +83,10 @@ Highlight any strengths or weaknesses??? End with Conclusion: Summarize the key 
 * [Complete python notebook of analysis](https://github.com/cboyda/AgTech/blob/main/Assignments/CapstoneAssignment_CropAnalysis.ipynb)
 
 ### a) Exploratory Data Analysis (EDA)
+
 ![Yield vs Stock Prices](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/graph-Yield_vs_StockPrice.png)
-![Correlation Matrix](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/correlation matrix.png)
+
+![Correlation Matrix](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/correlation_matrix.png)
 
 ### b) Model Comparison
 k-Means Clustering with k=2 and k=4.
@@ -98,6 +100,7 @@ k-Means Clustering with k=2 and k=4.
 ## Data Visualizations
 * Interactive Python Widget
 ![Interactive Python](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/Interactive_Python.png)
+
 * Interactive All Yield Map in HTML
 [Yield HTML Map](https://raw.githack.com/cboyda/AgTech/main/Visuals/Canola_AllYields.html)
 * Interactive All Values Map in HTML
