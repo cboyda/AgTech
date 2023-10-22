@@ -77,13 +77,30 @@ Highlight any strengths or weaknesses??? End with Conclusion: Summarize the key 
 * [Powerpoint Slide in ppx](https://github.com/cboyda/AgTech/raw/main/Visuals/Capstone%20-%20High%20Value%20Canola.pptx)
 * [Complete python notebook of analysis](https://github.com/cboyda/AgTech/blob/main/Assignments/CapstoneAssignment_CropAnalysis.ipynb)
 
-### a) Model Comparison
+### a) Exploratory Data Analysis (EDA)
+![Yield vs Stock Prices](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/graph-Yield_vs_StockPrice.png)
+![Correlation Matrix](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/correlation matrix.png)
 
-### b) Exploratory Data Analysis (EDA)
+### b) Model Comparison
+* k-mean elbow graph for selecting preferred k value
+![elbow graph](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/elbow-Value_scaled.png)
+
+k-Means Clustering completed on k=2 and k=4.
+![k-means results](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/k-means_comparison_data.png)
+![k=2 violinplot](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/cluster_k2_violin.png)
+![k=4 violinplot](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/cluster_k4_violin.png)
 
 ### c) Insights
+* Percentage Difference between Valuation and Crop Yield shows interesting patterns over time
+![percentage histograms](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/graph-Diffs_Normalized_OverTime.png)
 
 ## Data Visualizations
+* Interactive Python Widget
+![Interactive Python](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/Interactive_Python.png
+* Interactive All Yield Map in HTML
+[Yield HTML Map](https://raw.githack.com/cboyda/AgTech/main/Visuals/Canola_AllYields.html
+* Interactive All Values Map in HTML
+[Values HTML Map](https://raw.githack.com/cboyda/AgTech/main/Visuals/Canola_AllValues.html
 
 ## Challenges
 * GIS shapefiles were missing for 4 RMs for the best visualization these should be included
