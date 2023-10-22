@@ -97,11 +97,11 @@ k-Means Clustering with k=2 and k=4.
 
 ## Data Visualizations
 * Interactive Python Widget
-![Interactive Python](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/Interactive_Python.png
+![Interactive Python](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/Interactive_Python.png)
 * Interactive All Yield Map in HTML
-[Yield HTML Map](https://raw.githack.com/cboyda/AgTech/main/Visuals/Canola_AllYields.html
+[Yield HTML Map](https://raw.githack.com/cboyda/AgTech/main/Visuals/Canola_AllYields.html)
 * Interactive All Values Map in HTML
-[Values HTML Map](https://raw.githack.com/cboyda/AgTech/main/Visuals/Canola_AllValues.html
+[Values HTML Map](https://raw.githack.com/cboyda/AgTech/main/Visuals/Canola_AllValues.html)
 
 ## Challenges
 * GIS shapefiles were missing for 4 RMs for the best visualization these should be included
