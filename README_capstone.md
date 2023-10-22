@@ -74,13 +74,18 @@ K-means is a partitioning-based clustering algorithm. It assigns data points to 
 #### DBSCAN
 DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is a density-based clustering algorithm. It defines clusters as dense regions of data points separated by areas of lower density. It doesn't assume spherical clusters and can discover clusters of arbitrary shapes.
 
+![dbscan results](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/DBSCAN_results.png)
+
+  * See Python code for more details, preference was to focus on results of k-means since they visually represented a clearer result
+
 </details>
 
 # Results
-Highlight any strengths or weaknesses??? End with Conclusion: Summarize the key takeaways from the project, and discuss the implications and potential applications of the results. Provide recommendations for future work.
+Provided in full detail as a Microsoft PowerPoint presentation, choose which you wish to view:
 * [Powerpoint Slides in PDF](https://github.com/cboyda/AgTech/blob/main/Visuals/Capstone%20-%20High%20Value%20Canola.pdf)
 * [Powerpoint Slide in ppx](https://github.com/cboyda/AgTech/raw/main/Visuals/Capstone%20-%20High%20Value%20Canola.pptx)
-* [Complete python notebook of analysis](https://github.com/cboyda/AgTech/blob/main/Assignments/CapstoneAssignment_CropAnalysis.ipynb)
+* [Complete Python notebook of analysis](https://github.com/cboyda/AgTech/blob/main/Assignments/CapstoneAssignment_CropAnalysis.ipynb)
+  * Leveraged local workstation Anaconda with Python v3.12
 
 ### a) Exploratory Data Analysis (EDA)
 
