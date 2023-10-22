@@ -66,6 +66,11 @@ Utilized unsupervised learning and clustering analysis.
 #### K-Means
 K-means is a partitioning-based clustering algorithm. It assigns data points to clusters by minimizing the sum of squared distances between data points and the centroid of their assigned cluster. It assumes that clusters are spherical and equally sized.
 
+* k-mean elbow graph for selecting preferred k value
+![elbow graph](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/elbow-Value_scaled.png)
+
+![k-means results](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/k-means_comparison_data.png)
+
 #### DBSCAN
 DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is a density-based clustering algorithm. It defines clusters as dense regions of data points separated by areas of lower density. It doesn't assume spherical clusters and can discover clusters of arbitrary shapes.
 
@@ -82,11 +87,7 @@ Highlight any strengths or weaknesses??? End with Conclusion: Summarize the key 
 ![Correlation Matrix](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/correlation matrix.png)
 
 ### b) Model Comparison
-* k-mean elbow graph for selecting preferred k value
-![elbow graph](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/elbow-Value_scaled.png)
-
-k-Means Clustering completed on k=2 and k=4.
-![k-means results](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/k-means_comparison_data.png)
+k-Means Clustering with k=2 and k=4.
 ![k=2 violinplot](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/cluster_k2_violin.png)
 ![k=4 violinplot](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/cluster_k4_violin.png)
 
