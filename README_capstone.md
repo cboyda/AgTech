@@ -102,6 +102,14 @@ k-Means Clustering with k=2 and k=4.
 * Percentage Difference between Valuation and Crop Yield shows interesting patterns over time
 ![percentage histograms](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/graph-Diffs_Normalized_OverTime.png)
 
+* Top 10 Canola RM locations.  Interestingly the Top 10 Canola RM's by YIELD are NOT the same as VALUE.  These interactive HTML files allow you to see the discrepancy, reasons could be data discrepancy but it is an interesting insight and begs the question, why?
+* Interactive Top 10 RM's Yield Map in HTML
+![Top10byYield](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/Top10Yields_data.png)
+[Yield HTML Map](https://raw.githack.com/cboyda/AgTech/main/Visuals/Canola_TopYields.html)
+* Interactive Top 10 RM's Values Map in HTML
+![Top10byValue](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/Top10Values_data.png)
+[Values HTML Map](https://raw.githack.com/cboyda/AgTech/main/Visuals/Canola_TopValues.html)
+
 ## Data Visualizations
 * Interactive Python Widget
 ![Interactive Python](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/Interactive_Python.png)
