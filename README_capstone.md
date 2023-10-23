@@ -125,3 +125,5 @@ k-Means Clustering with k=2 and k=4.
 
 ## Future Goals
 * Better accuracy: use province-specific pricing like [Manitoba Canola specific prices](https://geoportal.gov.mb.ca/datasets/manitoba::manitoba-crop-prices-historical/explore) instead of generalizing with stock prices for all locations
+* Add Alberta Crop Yield Information and GIS shapefiles
+* Consider exporting as database, SQLlite and using LLM [Vanna-ai](https://github.com/vanna-ai/vanna) for natural language queries
