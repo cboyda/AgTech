@@ -124,13 +124,19 @@ k-Means Clustering with k=2 and k=4.
 
 * Interactive All Yield Map in HTML
 [Yield HTML Map](https://raw.githack.com/cboyda/AgTech/main/Visuals/Canola_AllYields.html)
+
+![YieldMap](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/mass_Canola_Yield_original.png)
+
 * Interactive All Values Map in HTML
 [Values HTML Map](https://raw.githack.com/cboyda/AgTech/main/Visuals/Canola_AllValues.html)
+
+![ValueMap](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/mass_Canola_Value_original.png)
 
 ## Challenges
 * GIS shapefiles were missing for 4 RMs for the best visualization these should be included
 
 ## Future Goals
+* Would love to explore, does higher yield always mean higher quality crop?
 * Better accuracy: use province-specific pricing like [Manitoba Canola specific prices](https://geoportal.gov.mb.ca/datasets/manitoba::manitoba-crop-prices-historical/explore) instead of generalizing with stock prices for all locations
 * Add Alberta Crop Yield Information and GIS shapefiles
 * Consider exporting as database, SQLlite and using LLM [Vanna-github](https://github.com/vanna-ai/vanna) / [Vanna.ai](https://vanna.ai/) for natural language queries
