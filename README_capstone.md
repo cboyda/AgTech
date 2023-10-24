@@ -74,7 +74,7 @@ K-means is a partitioning-based clustering algorithm. It assigns data points to 
 * k-mean elbow graph for selecting preferred k value
 ![elbow graph](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/elbow-Value_scaled.png)
 
-* k-mean silhouette analysis graph which validated my k=2/4 choices
+* k-mean silhouette analysis graph which validated my k=2 and k=4 choices
 ![silhouette graph](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/silhouette_kmeans_clusters.png)
 
 ![k-means results](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/k-means_comparison_data.png)
@@ -84,7 +84,7 @@ DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is a densit
 
 ![dbscan results](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/DBSCAN_results.png)
 
-  * See Python code for more details, preference was to focus on results of k-means since they visually represented a clearer result
+  * See Python code for more details, my preference was to focus on the results of k-means since they visually represented a clearer result
 
 </details>
 
