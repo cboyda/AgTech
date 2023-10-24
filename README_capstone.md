@@ -69,6 +69,9 @@ K-means is a partitioning-based clustering algorithm. It assigns data points to 
 * k-mean elbow graph for selecting preferred k value
 ![elbow graph](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/elbow-Value_scaled.png)
 
+* k-mean silhouette analysis graph which validated my k=2/4 choices
+![silhouette graph](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/silhouette_kmeans_clusters.png)
+
 ![k-means results](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/k-means_comparison_data.png)
 
 #### DBSCAN
