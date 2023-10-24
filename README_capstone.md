@@ -60,6 +60,7 @@ Utilized unsupervised learning and clustering analysis.
 | Scalability                   |   Yes   |   Limited  |
 | Cluster Interpretability      |   Yes   |   Moderate  |
 
+## DETAILS
 <details>
   <summary>ANALYSIS DETAILS... [click to view]</summary>
   
