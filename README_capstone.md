@@ -125,12 +125,12 @@ k-Means Clustering with k=2 and k=4.
 * Interactive All Yield Map in HTML
 [Yield HTML Map](https://raw.githack.com/cboyda/AgTech/main/Visuals/Canola_AllYields.html)
 
-![YieldMap](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/mass_Canola_Yield_original.png)
+![YieldMap](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/mass_Canola_Yield_standardized.png)
 
 * Interactive All Values Map in HTML
 [Values HTML Map](https://raw.githack.com/cboyda/AgTech/main/Visuals/Canola_AllValues.html)
 
-![ValueMap](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/mass_Canola_Value_original.png)
+![ValueMap](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/mass_Canola_Value_standardized.png)
 
 ## Challenges
 * GIS shapefiles were missing for 4 RMs for the best visualization these should be included
