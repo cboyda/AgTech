@@ -126,9 +126,9 @@ k-Means Clustering with k=2 and k=4.
 * Interestingly only 3 RM's resulted a negative difference:
 ![Negative_RM_Differences](https://raw.githubusercontent.com/cboyda/AgTech/main/Visuals/negative_RM_percent_difference.png)
 * These 3 RM's invite further exploration, why are they negative, what is going on in these regions?
-  * For RM 46 (SK), the Canola yield had a mean of 16.79 with a standard deviation of 11.77, while the Value had a mean of 224.02 with a standard deviation of 113.11. The Canola was scaled to 0.00, and the Value was scaled to 0.04. The diff_percent_yield_value is -100.00, indicating a decrease.
-  * For RM REYNOLDS (MB), the Canola yield had a mean of 36.55 with a standard deviation of 11.19, while the Value had a mean of 629.82 with a standard deviation of 313.03. The Canola was scaled to 0.71, and the Value was scaled to 1.00. The diff_percent_yield_value is -29.20, indicating a decrease.
-  * For RM STUARTBURN (MB), the Canola yield had a mean of 29.34 with a standard deviation of 13.38, while the Value had a mean of 490.84 with a standard deviation of 377.04. The Canola was scaled to 0.45, and the Value was scaled to 0.67. The diff_percent_yield_value is -32.80, indicating a decrease.
+  * For RM 46 (SK), the diff_percent_yield_value is -100.00, indicating a massive decrease.
+  * For RM REYNOLDS (MB), the diff_percent_yield_value is -29.20, indicating a moderate decrease.
+  * For RM STUARTBURN (MB), the diff_percent_yield_value is -32.80, indicating a moderate decrease, but being negative does invite inquiry.
 
 
 * Interactive All Yield Map in HTML
