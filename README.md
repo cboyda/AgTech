@@ -21,7 +21,7 @@ As a student of the [Palette Skills Automation & Digital Agriculture Specialist 
 
 ## 📊 Projects
 
-### Final Assignment: Crop Data Analysis Presentation
+### FINAL GIS Assignment: Crop Data GIS and ML Presentation
 - [Capstone GIS Canola Crop Yield vs Value Analysis Project](https://github.com/cboyda/AgTech/blob/main/README_capstone.md)
   - [Sample Interactive HTML Canola Crop for Saskatchewan and Manitoba](https://raw.githack.com/cboyda/AgTech/main/Visuals/Canola_2021.html)
 
@@ -46,10 +46,8 @@ As a student of the [Palette Skills Automation & Digital Agriculture Specialist 
 
 ### Agri-Forward Pitch Deck 🐔
 - ‘Autonomously Improving Livestock Environments’
-- Currently producers are generalizing their data barely able to collect averages of their flocks.  What if we could collect individual animal details? Customizing male chicken diets has showed a 5% increase in fertility.  Imagine those results on your whole flock?
+- Currently, producers are generalizing their data barely able to collect averages of their flocks.  What if we could collect individual animal details? Customizing male chicken diets has showed a 5% increase in fertility.  Imagine those results on your whole flock?
 - ***Team Aeris*** is focused on improving livestock environments by collecting individual animal statistics, environmental sensor data and optimizing their environment for the healthiest outcome.  Healthier Livestock means a Healthier Society!
-
-> _More projects coming soon!_
 
 ---
 
